@@ -1,2 +1,2 @@
 # HackerRank-Solutions
-This Repository contains solutions to HackerRank Challenges. 
+Sharing my approach to HackerRank Challenges 
